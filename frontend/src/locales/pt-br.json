@@ -41,7 +41,7 @@
       "subtitleSummarizer": "Resuma textos longos em poucos segundos",
       "subtitleTranslator": "Traduza seus textos com rapidez e precisão",
       "loadingName": "...",
-      "defaultName": "Usuário"
+      "defaultName": "CLique aqui"
     },
     "input": {
       "placeholder": "Digite aqui sua curiosidade...",
@@ -64,7 +64,7 @@
   "userMenu": {
     "settings": "Configurações",
     "loading": "Carregando...",
-    "defaultUser": "Usuário",
+    "defaultUser": "Clique aqui",
     "defaultEmail": "usuário@email.com"
   },
   "sidebar": {

@@ -64,7 +64,7 @@
   "userMenu": {
     "settings": "Settings",
     "loading": "Loading...",
-    "defaultUser": "User",
+    "defaultUser": "Click here",
     "defaultEmail": "user@email.com"
   },
   "sidebar": {
