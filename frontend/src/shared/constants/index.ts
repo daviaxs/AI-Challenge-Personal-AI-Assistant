@@ -1,0 +1,1 @@
+export const SIDEBAR_CHAT_KEY = 'sidebar_chat';

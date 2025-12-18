@@ -1,0 +1,104 @@
+{
+  "settingsModal": {
+    "title": "Configurações",
+    "tabs": {
+      "general": "Geral"
+    },
+    "descriptions": {
+      "general": "Gerencie suas preferências gerais do aplicativo"
+    },
+    "general": {
+      "theme": {
+        "title": "Tema",
+        "description": "Personalize a aparência da interface",
+        "options": {
+          "light": {
+            "label": "Claro",
+            "description": "Interface clara"
+          },
+          "dark": {
+            "label": "Escuro",
+            "description": "Interface escura"
+          },
+          "system": {
+            "label": "Sistema",
+            "description": "Automático"
+          }
+        }
+      },
+      "language": {
+        "title": "Idioma",
+        "description": "Selecione o idioma da interface"
+      }
+    }
+  },
+  "mainChat": {
+    "welcome": {
+      "greeting": "Olá, {name}!",
+      "subtitle": "O que você gostaria de aprender hoje?",
+      "titleSummarizer": "Resumidor de Texto",
+      "titleTranslator": "Tradutor",
+      "subtitleSummarizer": "Resuma textos longos em poucos segundos",
+      "subtitleTranslator": "Traduza seus textos com rapidez e precisão",
+      "loadingName": "...",
+      "defaultName": "Usuário"
+    },
+    "input": {
+      "placeholder": "Digite aqui sua curiosidade...",
+      "placeholderSummarizer": "Cole ou digite o texto para resumir...",
+      "placeholderTranslator": "Digite qualquer texto para traduzir..."
+    },
+    "languages": {
+      "en": "Inglês",
+      "pt": "Português",
+      "es": "Espanhol",
+      "fr": "Francês",
+      "de": "Alemão",
+      "it": "Italiano",
+      "ja": "Japonês",
+      "zh": "Chinês",
+      "ru": "Russo",
+      "ar": "Árabe"
+    }
+  },
+  "userMenu": {
+    "settings": "Configurações",
+    "loading": "Carregando...",
+    "defaultUser": "Usuário",
+    "defaultEmail": "usuário@email.com"
+  },
+  "sidebar": {
+    "agent": {
+      "title": "AI Challenge",
+      "summarizer": "Resumidor de texto",
+      "translator": "Tradutor",
+      "studyHelper": "Criador de Quiz"
+    }
+  },
+  "mainQuiz": {
+    "title": "Criar Quiz Personalizado",
+    "placeholder": "Faça um quiz sobre...",
+    "suggestions": [
+      "Filosofia antiga",
+      "História do Brasil",
+      "Física Quântica",
+      "Literatura brasileira"
+    ],
+    "loading": {
+      "title": "Gerando seu quiz...",
+      "subtext": "Estamos criando perguntas personalizadas para você"
+    },
+    "completion": {
+      "title": "Parabéns!",
+      "subtitle": "Você completou o quiz!",
+      "description": "Clique em 'Novo Quiz' para estudar mais"
+    },
+    "navigation": {
+      "previous": "Anterior",
+      "next": "Próxima",
+      "finish": "Finalizar",
+      "newQuiz": "Novo Quiz"
+    },
+    "explanation": "Explicação"
+  }
+} 

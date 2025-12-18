@@ -1,0 +1,104 @@
+{
+  "settingsModal": {
+    "title": "Settings",
+    "tabs": {
+      "general": "General"
+    },
+    "descriptions": {
+      "general": "Manage your general application preferences"
+    },
+    "general": {
+      "theme": {
+        "title": "Theme",
+        "description": "Customize the appearance of the interface",
+        "options": {
+          "light": {
+            "label": "Light",
+            "description": "Light interface"
+          },
+          "dark": {
+            "label": "Dark",
+            "description": "Dark interface"
+          },
+          "system": {
+            "label": "System",
+            "description": "Automatic"
+          }
+        }
+      },
+      "language": {
+        "title": "Language",
+        "description": "Select the interface language"
+      }
+    }
+  },
+  "mainChat": {
+    "welcome": {
+      "greeting": "Hello, {name}!",
+      "subtitle": "What would you like to learn today?",
+      "titleSummarizer": "Text Summarizer",
+      "titleTranslator": "Translator",
+      "subtitleSummarizer": "Summarize long texts in seconds",
+      "subtitleTranslator": "Translate your texts quickly and accurately",
+      "loadingName": "...",
+      "defaultName": "User"
+    },
+    "input": {
+      "placeholder": "Type your curiosity here...",
+      "placeholderSummarizer": "Paste or type text to summarize...",
+      "placeholderTranslator": "Type any text to translate..."
+    },
+    "languages": {
+      "en": "English",
+      "pt": "Portuguese",
+      "es": "Spanish",
+      "fr": "French",
+      "de": "German",
+      "it": "Italian",
+      "ja": "Japanese",
+      "zh": "Chinese",
+      "ru": "Russian",
+      "ar": "Arabic"
+    }
+  },
+  "userMenu": {
+    "settings": "Settings",
+    "loading": "Loading...",
+    "defaultUser": "User",
+    "defaultEmail": "user@email.com"
+  },
+  "sidebar": {
+    "agent": {
+      "title": "AI Challenge",
+      "summarizer": "Text Summarizer",
+      "translator": "Translator",
+      "studyHelper": "Quiz Creator"
+    }
+  },
+  "mainQuiz": {
+    "title": "Create Personalized Quiz",
+    "placeholder": "Make a quiz about...",
+    "suggestions": [
+      "Filosofia antiga",
+      "História do Brasil",
+      "Física Quântica",
+      "Literatura brasileira"
+    ],
+    "loading": {
+      "title": "Generating your quiz...",
+      "subtext": "We are creating personalized questions for you"
+    },
+    "completion": {
+      "title": "Congratulations!",
+      "subtitle": "You completed the quiz!",
+      "description": "Click 'New Quiz' to study more"
+    },
+    "navigation": {
+      "previous": "Previous",
+      "next": "Next",
+      "finish": "Finish",
+      "newQuiz": "New Quiz"
+    },
+    "explanation": "Explanation"
+  }
+} 
