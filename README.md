@@ -105,7 +105,7 @@ O frontend estará rodando em `http://localhost:5173`
 - **Backend API**: http://localhost:8000
 - **Documentação da API**: http://localhost:8000/docs
 
-## strutura do Projeto
+## Estrutura do Projeto
 
 ```
 AI-Challenge-Personal-AI-Assistant/
@@ -134,9 +134,11 @@ AI-Challenge-Personal-AI-Assistant/
 
 ### Backend
 - **FastAPI** - Framework web moderno e rápido
-- **OpenRouter** - API de modelos de IA
-- **Pydantic** - Validação de dados
+- **Uvicorn** - Servidor ASGI
 - **httpx** - Cliente HTTP assíncrono
+- **Pydantic** - Validação de dados e schemas
+- **python-dotenv** - Gerenciamento de variáveis de ambiente
+- **slowapi** - Rate limiting
 
 ### Frontend
 - **React** + **TypeScript** - Interface moderna
@@ -150,7 +152,7 @@ AI-Challenge-Personal-AI-Assistant/
 - Todas as funcionalidades são stateless (sem persistência de dados)
 - A API não armazena histórico de conversas
 
-## Possveis Problemas
+## Possiveis Problemas
 
 ### Backend não inicia
 - Verifique se o `.env` está configurado com `OPENROUTER_API_KEY`
